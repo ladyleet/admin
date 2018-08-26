@@ -110,39 +110,19 @@ Once the request has been approved, you must:
 and the total approved for reimbursement.
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
 3. Email this reimbursement request to travelapprovals@nodejs.org.
-
-Submit reports within one calendar month of the event date. Submitting reports
-in a timely fashion facilitates accurate record-keeping.
+4. Expense reports must be submitted within 30 days of event date. Any reports submitted after 30 days may not be reimbursed.
+5. Disbursements are generally processed within 30 days. 
 
 Due to privacy, the Individual Members list is not public. This team will verify the
-requester is on the Individual Members list before funds are disbursed. This
-disbursement is generally processed within 30 days. The community manager or a
-member of the Node.js Foundation team within the Linux Foundation will report
-back amounts consumed from the travel allocation on a monthly basis to the
-Chairs.
+requester is on the Individual Members list before funds are disbursed. The community manager or a member of the Node.js Foundation team within the Linux Foundation will report back amounts consumed from the travel allocation on a monthly basis to the Chairs.
 
-Once the final amount of reimbursement is known, update the table below with
-that information.
+First Name | Last Name | Event | Kind of participation | Location | Date | Stipend size | Pull request date | Pull request link | Date expense report sent | Amount of expense report | Date sent to finance | Date approved bill.com | Bill.com amount approved for reimbursement
+---------- | --------- | ------| --------------------- | -------- | ---- | ------------ | ----------------- | ----------------- | ------------------------ | ------------------------ | -------------------- | ---------------------- | ----------------------------------------- |
+Mihai | Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283 | 2Feb 2018 | https://github.com/nodejs/admin/pull/60 | 28Feb 2018 | US$283 | 28Feb 2018 | 28Feb 2018 | US$283
+Mihai | Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283 | 2Feb 2018 | https://github.com/nodejs/admin/pull/60 | 28Feb 2018 | US$283 | 28Feb 2018 | 28Feb 2018 | US$283
+<!-- Joyee | Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1650 | 16Feb 2018 |  -->
 
-Name | Event | Kind of participation | Location | Date | Stipend size
----- | ----- | --------------------- | -------- | ---- | ------------
-Rich Trott | NINA 2016 | Collaborator Summit and Code & Learn | Austin, TX, US | 29 Nov – 2 Dec 2016 | US$ 2000
-Anna Henningsen | NINA 2016 | Collaborator Summit and Code & Learn | Austin, TX, US | 29 Nov – 2 Dec 2016 | US$ 2530
-Stephen Belanger | NINA 2016 | Collaborator Summit | Austin, TX, US | 1 Dec – 2 Dec 2016 | US$ 800
-Italo A. Casas | NINA 2016 | Collaborator Summit | Austin, TX, US | 1 Dec – 2 Dec 2016 | US$ 644
-Anna Henningsen | TC39 Meeting | Attendance | San Jose, CA, US | 24 Jan – 26 Jan 2017 | US$ 1048
-Michaël Zasso | Collaborator Summit | Attendance | Berlin, DE | 4 May – 5 May 2017 | US$ 318
-Anna Henningsen | Collaborator Summit | Attendance | Berlin, DE | 4 May – 5 May 2017 | US$ 240
-Santiago Gimeno | Collaborator Summit | Attendance | Berlin, DE | 4 May – 5 May 2017 | US$ 160
-Calvin Metcalf | Collaborator Summit | Attendance | Berlin, DE | 4 May – 5 May 2017 | US$ 600
-Никита Сковорода | Collaborator Summit | Attendance | Berlin, DE | 4 May – 5 May 2017 | €573
-Bryan English | JSConf.cn 2017 | Code & Learn Mentor | Shanghai, CN | 15 July - 16 July 2017 | $1100
-Tobias Nießen | NINA 2017 | Collaborator Summit and Code & Learn | Vancouver, BC, CA | 5 Oct - 8 Oct 2017 | €1300
-Tiancheng Gu | NINA 2017 | Collaborator Summit | Vancouver, BC, CA | 3 Oct – 8 Oct 2017 | US$ 1200
-Ruben Bridgewater | NINA 2017 | Collaborator Summit and Code & Learn | Vancouver, BC, CA | 4 Oct - 8 Oct 2017 | €1500
-Mihai Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283
-Joyee Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1650
-Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
+<!-- Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
 Rachel White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $1400
 Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618
 Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000
@@ -177,7 +157,7 @@ Liran Tal | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Van
 Yoshua Wuyts | Collab Summit & JS Interactive 2018 | Attendence & Collaborate | Vancouver BC CAN | Oct 10 - 13 2018 | US$1250
 Waleed Ashraf | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver, BC, CAN | Oct 9 - Oct 14 2018 | US$2030
 Matheus Marchini | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1200
-Ruben Bridgewater | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver, BC, CAN | Oct 9 - Oct 14 2018 | US$2150
+Ruben Bridgewater | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver, BC, CAN | Oct 9 - Oct 14 2018 | US$2150 -->
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
