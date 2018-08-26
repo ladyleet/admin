@@ -119,12 +119,12 @@ requester is on the Individual Members list before funds are disbursed. The comm
 First Name | Last Name | Event | Kind of participation | Location | Date | Stipend size | Pull request date | Pull request link | Date expense report sent | Amount of expense report | Date sent to finance | Date approved bill.com | Bill.com amount approved for reimbursement
 ---------- | --------- | ------| --------------------- | -------- | ---- | ------------ | ----------------- | ----------------- | ------------------------ | ------------------------ | -------------------- | ---------------------- | ----------------------------------------- |
 Mihai | Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283 | 2Feb 2018 | https://github.com/nodejs/admin/pull/60 | 28Feb 2018 | US$283 | 28Feb 2018 | 28Feb 2018 | US$283
-Mihai | Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283 | 2Feb 2018 | https://github.com/nodejs/admin/pull/60 | 28Feb 2018 | US$283 | 28Feb 2018 | 28Feb 2018 | US$283
-<!-- Joyee | Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1650 | 16Feb 2018 |  -->
+Joyee | Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1650 | 16Feb 2018 | https://github.com/nodejs/admin/pull/65 | 26Feb 2018 | US$1604 | 26Feb 2018 | 26Feb 2018 | US$1604
+Benjamin | Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400 | | | | | | | 
+Rachel | White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $1400 | 12Mar 2018 | https://github.com/nodejs/admin/pull/89 | 1June 2018 (US$934.91) & 15June 2018 (US$510.09) | US$1445 | 1June 2018 & 15June2018 | 1June 2018 & 15June2018 | US$1421.77
+Ben | Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618 | 11Apr 2018 | https://github.com/nodejs/admin/pull/113 | 22May 2018 | US$1618 | 22May 2018 | 22May 2018| US$1618
 
-<!-- Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
-Rachel White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $1400
-Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618
+<!-- 
 Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000
 Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1377
 Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$919.98
