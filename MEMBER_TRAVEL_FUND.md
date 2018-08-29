@@ -123,10 +123,10 @@ Joyee | Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 
 Benjamin | Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400 | | | | | | | 
 Rachel | White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $1400 | 12Mar 2018 | https://github.com/nodejs/admin/pull/89 | 1June 2018 (US$934.91) & 15June 2018 (US$510.09) | US$1445 | 1June 2018 & 15June2018 | 1June 2018 & 15June2018 | US$1421.77
 Ben | Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618 | 11Apr 2018 | https://github.com/nodejs/admin/pull/113 | 22May 2018 | US$1618 | 22May 2018 | 22May 2018| US$1618
+Dhruv | Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000 | 3Mar 2018 | https://github.com/nodejs/admin/pull/82 | 12June 2018 | $258 | 12June 2018 | 12June 2018 | $258
+Manil | Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin Germany | May 30 - Jun 2 2018 | USD$1377 | 28Mar 2018 | https://github.com/nodejs/admin/pull/104 | 11June 2018 | USD$1351.20 | 11June 2018 | 11June 2018 | USD$1351.20
 
 <!-- 
-Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000
-Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1377
 Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$919.98
 Richard Littauer | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 3 2018 | $800
 Dan Shaw | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 3 | $1500
